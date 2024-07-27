@@ -1,2 +1,2 @@
-# Vagrant-Puppet
-Example Puppet-Vagrant
+# Puppet-Apache
+Example Puppet-Apache
